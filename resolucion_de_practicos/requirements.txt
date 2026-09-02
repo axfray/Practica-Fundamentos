@@ -1,0 +1,13 @@
+jupyter
+ipykernel
+nbconvert
+pandas<3
+numpy<2.4
+scipy<1.17
+matplotlib<=3.10
+seaborn
+sweetviz
+wget
+openpyxl
+ydata-profiling
+setuptools<81
